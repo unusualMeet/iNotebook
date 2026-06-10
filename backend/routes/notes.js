@@ -4,5 +4,4 @@ const router = express.Router();
 router.get('/', (req, res) => {
     res.send("Notes route working");
 });
-
 module.exports = router;
