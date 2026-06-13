@@ -1,4 +1,4 @@
-import React, { useEffectEvent,useEffect } from 'react'
+import React from 'react'
 const About  = () => {
   return (
     <div>
